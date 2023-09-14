@@ -4,11 +4,11 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   
-  - [osTicket: Post-Installation Configuration](https://github.com/README.md/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/README.md/ticket-lifecycle)
+  - [osTicket: Post-Installation Configuration](https://github.com/58Beans/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/58Beans/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/README.md/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/README.md/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/58Beans/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/58Beans/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
