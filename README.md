@@ -4,6 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   
+  - [osTicket: Prerquisites and Installation](https://github.com/58Beans/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/58Beans/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/58Beans/ticket-lifecycle)
 - <b>Microsoft Azure</b>
