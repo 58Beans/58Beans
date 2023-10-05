@@ -17,8 +17,8 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[indeed]: https://indeed.com/58Beans
-[dice]: https://dice.com/58Beans
+[twitter]: https://twitter.com/58Beans
+[instgram]: https://www.instgram.com/58Beans
 [linkedin]: https://linkedin.com/in/58Beans
 - ⚡ Fun fact: ...
 -->
