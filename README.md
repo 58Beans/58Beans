@@ -20,8 +20,7 @@
 [twitter]: https://twitter.com/58Beans
 [instgram]: https://www.instgram.com/58Beans
 [linkedin]: https://linkedin.com/in/58Beans
-- ⚡ Fun fact: ...
--->
+
 
 
 
